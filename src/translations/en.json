@@ -1,0 +1,7 @@
+{
+"Home" : "Home",
+"Blog" : "Blog",
+"Email": "Email",
+"Email-Error-Required": "E-mail is required.",
+"Email-Error-Format":"Must be formatted: john.doe@email.com"
+}

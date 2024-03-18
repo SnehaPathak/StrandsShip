@@ -1,0 +1,9 @@
+{
+    "appId": "test5strands-zkshp",
+    "appUrl": "https://services.cloud.mongodb.com/groups/65d844a7987dd53d99a566bd/apps/65e17e9717f2193c975e3849",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65d844a7987dd53d99a566bd/explorer/SnehaCloud/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
